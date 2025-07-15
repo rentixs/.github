@@ -1,5 +1,5 @@
 ﻿<div align="center">
-    <img src="https://github.com/rentixs/.github/rentix-dark-logo.svg" height="80" alt="Rentixy logo" />
+    <img src="https://github.com/rentixs/.github/profile/logowhite.svg" height="80" alt="Rentixy logo" />
     <h1>Rentixy</h1>
     <p><strong>Dynamic resource sharing infrastructure</strong><br/>Containers. RAM Disks. Servers. On-demand.</p>
 
